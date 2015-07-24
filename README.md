@@ -1,9 +1,11 @@
 SL5_Ask_Question_Helper_4_Stackoverflow
 =====
 
-developer productivity engine for ahk developers with scite4ahk<br>
-SL5_AHK_Refactor_engine is free for personal and commercial use.
+this helps you formating your source code for stackoverflow.
+it is a Autohotkey script. that means it works only with win OS.
+it is possible to compile it to a exe file.
 
+https://github.com/sl5net/SL5_Ask_Question_Helper_4_Stackoverflow.git
 in this video you see the development process of the very early version (24.07.2015):
  http://youtu.be/MrvdUfQVe2o 
  
